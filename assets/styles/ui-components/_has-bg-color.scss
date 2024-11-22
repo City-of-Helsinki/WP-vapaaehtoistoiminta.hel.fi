@@ -1,0 +1,61 @@
+.has-bg-color {
+    &--yellow {
+        background-color: $color-yellow;
+    }
+
+    &--yellow-lighter {
+        background-color: $color-yellow-lighter;
+    }
+
+    &--green {
+        background-color: $color-green;
+    }
+
+    &--green-lighter {
+        background-color: $color-green-lighter;
+    }
+
+    &--pink-lighter {
+        background-color: $color-pink-lighter;
+    }
+
+    &--grey {
+        background-color: $color-grey;
+    }
+
+    &--grey-lighter {
+        background-color: $color-grey-lighter;
+    }
+
+    &--near-white {
+        background-color: $color-near-white;
+    }
+
+    &--blue {
+        background-color: $color-blue;
+    }
+
+    &--blue-light {
+        background-color: $color-blue-light;
+    }
+
+    &--blue-bright {
+        background-color: $color-blue-bright;
+    }
+
+    &--turquoise {
+        background-color: $color-turquoise;
+    }
+
+    &--white {
+        background-color: $color-white;
+    }
+
+    &--black {
+        background-color: $color-black;
+    }
+
+    &--almost-black {
+        background-color: $color-almost-black;
+    }
+}

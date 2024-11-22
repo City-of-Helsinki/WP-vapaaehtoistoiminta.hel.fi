@@ -1,0 +1,12 @@
+/assets/dist
+/kss-styleguide/styleguide
+/node_modules
+/.sass-cache
+/.idea
+.DS_Store
+vendor
+composer.lock
+genny/
+
+# Don't include unison data sync tmp files
+*.unison.tmp

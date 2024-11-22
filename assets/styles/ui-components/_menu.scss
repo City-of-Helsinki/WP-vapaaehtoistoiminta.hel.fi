@@ -1,0 +1,9 @@
+.menu {
+    &__submenu {
+        .current-menu-ancestor &,
+        .current-page-ancestor &,
+        .current-menu-item & {
+            background: $color-silver-medium-light;
+        }
+    }
+}

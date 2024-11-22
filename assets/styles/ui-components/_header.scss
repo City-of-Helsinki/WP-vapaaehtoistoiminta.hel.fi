@@ -1,0 +1,33 @@
+.site-header {
+    &__some-icon {
+        &,
+        a {
+            justify-content: center;
+            align-items: center;
+        }
+
+        &--desktop {
+            display: none;
+
+            @include breakpoint(l) {
+                display: flex;
+            }
+        }
+
+        &--mobile {
+            display: flex;
+
+            @include breakpoint(l) {
+                display: none;
+            }
+        }
+
+        a {
+            display: flex;
+
+            span {
+                color: $color-black;
+            }
+        }
+    }
+}

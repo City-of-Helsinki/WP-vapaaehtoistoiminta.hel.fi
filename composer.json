@@ -1,0 +1,34 @@
+{
+    "name": "devgeniem/hds-child-theme",
+    "type": "wordpress-theme",
+    "description": "The ultimate starter kit for WordPress theme development with DustPress",
+    "authors": [
+        {
+            "name": "Ville Siltala",
+            "email": "ville.siltala@geniem.com",
+            "homepage": "http://geniem.com/",
+            "role": "Developer"
+        },
+        {
+            "name": "Otto Rautamaa",
+            "email": "otto.rautamaan@geniem.com",
+            "homepage": "http://geniem.com/",
+            "role": "Developer"
+        },
+        {
+            "name": "Mats Tuovinen",
+            "email": "mats.tuovinen@geniem.com",
+            "homepage": "http://geniem.com/",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "wordpress",
+        "theme"
+    ],
+    "license": "GPL-3.0",
+    "minimum-stability": "dev",
+    "require": {
+        "composer/installers": "^1.0.12"
+    }
+}

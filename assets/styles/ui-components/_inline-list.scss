@@ -1,0 +1,7 @@
+.inline-list {
+    &--align-end {
+        @include breakpoint(s) {
+            margin-left: auto;
+        }
+    }
+}

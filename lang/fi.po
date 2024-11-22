@@ -1,0 +1,616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nuhe\n"
+"POT-Creation-Date: 2023-01-03 20:57+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: archive.php:55 partials/layouts/tax_term_list.php:33
+msgid "Filter results"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:77
+msgid "Start date"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:81
+msgid "End date"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:85
+msgid "Keywords"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:89 lib/LinkedEventsSettings.php:88
+msgid "Places"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:93
+msgid "Limit"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:217 partials/blocks/linked-events.php:95
+msgid "Free"
+msgstr "Maksuton"
+
+#: lib/LinkedEventsSettings.php:74
+msgid "WP LinkedEvents settings"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:92
+msgid "Place text"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:96
+msgid "Place ID"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:100
+msgid "Keyword groups"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:104
+msgid "Keyword group text"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:105
+msgid "In example music"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:108
+msgid "Selected keywords"
+msgstr ""
+
+#: lib/Model/SingleTask.php:62
+msgid "Time"
+msgstr "Aika"
+
+#: lib/Model/SingleTask.php:66
+msgid "Location"
+msgstr "Paikka"
+
+#: lib/Model/SingleTask.php:70
+msgid "Requirements"
+msgstr "Tarvittava osaaminen"
+
+#: lib/Model/SingleTask.php:74
+msgid "Organizer"
+msgstr "Järjestäjä"
+
+#: lib/Model/SingleTask.php:78
+msgid "Additional information"
+msgstr "Lisätietoa"
+
+#: lib/PostType/Activity.php:59
+msgctxt "theme CPT"
+msgid "Toiminta"
+msgstr ""
+
+#: lib/PostType/Activity.php:79
+msgctxt "theme CPT Singular Name"
+msgid "Toiminnat"
+msgstr ""
+
+#: lib/PostType/Activity.php:80 lib/PostType/Activity.php:81
+msgctxt "theme CPT"
+msgid "Toiminnat"
+msgstr ""
+
+#: lib/PostType/Activity.php:82
+msgctxt "theme CPT"
+msgid "Toimintojen arkistot"
+msgstr ""
+
+#: lib/PostType/Activity.php:83
+msgctxt "theme CPT"
+msgid "Toiminnan ominaisuudet"
+msgstr ""
+
+#: lib/PostType/Activity.php:84 lib/PostType/Task.php:84
+msgctxt "theme CPT"
+msgid "Yläsivu:"
+msgstr ""
+
+#: lib/PostType/Activity.php:85
+msgctxt "theme CPT"
+msgid "Kaikki toiminnat"
+msgstr ""
+
+#: lib/PostType/Activity.php:86
+msgctxt "theme CPT"
+msgid "Lisää uusi toiminta"
+msgstr ""
+
+#: lib/PostType/Activity.php:87 lib/PostType/Task.php:87
+msgctxt "theme CPT"
+msgid "Lisää uusi"
+msgstr ""
+
+#: lib/PostType/Activity.php:88 lib/PostType/Task.php:88
+msgctxt "theme CPT"
+msgid "New Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:89 lib/PostType/Task.php:89
+msgctxt "theme CPT"
+msgid "Edit Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:90 lib/PostType/Task.php:90
+msgctxt "theme CPT"
+msgid "Update Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:91
+msgctxt "theme CPT"
+msgid "Näytä toiminta"
+msgstr ""
+
+#: lib/PostType/Activity.php:92 lib/PostType/Task.php:92
+msgctxt "theme CPT"
+msgid "View Items"
+msgstr ""
+
+#: lib/PostType/Activity.php:93 lib/PostType/Task.php:93
+msgctxt "theme CPT"
+msgid "Search Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:94 lib/PostType/Task.php:94
+msgctxt "theme CPT"
+msgid "Not found"
+msgstr ""
+
+#: lib/PostType/Activity.php:95 lib/PostType/Task.php:95
+msgctxt "theme CPT"
+msgid "Not found in Trash"
+msgstr ""
+
+#: lib/PostType/Activity.php:96 lib/PostType/Task.php:96
+msgctxt "theme CPT"
+msgid "Artikkelikuva"
+msgstr ""
+
+#: lib/PostType/Activity.php:97 lib/PostType/Task.php:97
+msgctxt "theme CPT"
+msgid "Set featured image"
+msgstr ""
+
+#: lib/PostType/Activity.php:98 lib/PostType/Task.php:98
+msgctxt "theme CPT"
+msgid "Remove featured image"
+msgstr ""
+
+#: lib/PostType/Activity.php:99 lib/PostType/Task.php:99
+msgctxt "theme CPT"
+msgid "Use as featured image"
+msgstr ""
+
+#: lib/PostType/Activity.php:100 lib/PostType/Task.php:100
+msgctxt "theme CPT"
+msgid "Insert into item"
+msgstr ""
+
+#: lib/PostType/Activity.php:101 lib/PostType/Task.php:101
+msgctxt "theme CPT"
+msgid "Uploaded to this item"
+msgstr ""
+
+#: lib/PostType/Activity.php:102 lib/PostType/Task.php:102
+msgctxt "theme CPT"
+msgid "Items list"
+msgstr ""
+
+#: lib/PostType/Activity.php:103 lib/PostType/Task.php:103
+msgctxt "theme CPT"
+msgid "Items list navigation"
+msgstr ""
+
+#: lib/PostType/Activity.php:104 lib/PostType/Task.php:104
+msgctxt "theme CPT"
+msgid "Filter items list"
+msgstr ""
+
+#: lib/PostType/Task.php:59
+msgctxt "theme CPT"
+msgid "Tehtävä"
+msgstr ""
+
+#: lib/PostType/Task.php:79
+msgctxt "theme CPT Singular Name"
+msgid "Tehtävät"
+msgstr ""
+
+#: lib/PostType/Task.php:80 lib/PostType/Task.php:81
+msgctxt "theme CPT"
+msgid "Tehtävät"
+msgstr ""
+
+#: lib/PostType/Task.php:82
+msgctxt "theme CPT"
+msgid "Tehtävien arkistot"
+msgstr ""
+
+#: lib/PostType/Task.php:83
+msgctxt "theme CPT"
+msgid "Tehtävien ominaisuudet"
+msgstr ""
+
+#: lib/PostType/Task.php:85
+msgctxt "theme CPT"
+msgid "Kaikki tehtävät"
+msgstr ""
+
+#: lib/PostType/Task.php:86
+msgctxt "theme CPT"
+msgid "Lisää uusi tehtävä"
+msgstr ""
+
+#: lib/PostType/Task.php:91
+msgctxt "theme CPT"
+msgid "Näytä tehtävä"
+msgstr ""
+
+#: lib/VetACFController.php:195
+msgid "Articles"
+msgstr "Artikkelit"
+
+#: lib/VetACFController.php:196
+msgid "Pages"
+msgstr "Sivut"
+
+#: lib/VetACFController.php:197
+msgid "Activities"
+msgstr "Toiminnot"
+
+#: lib/VetACFController.php:198
+msgid "Tasks"
+msgstr "Tehtävät"
+
+#: lib/VetSearchController.php:34
+msgctxt "page in search results"
+msgid "page"
+msgstr "sivu"
+
+#: lib/VetSearchController.php:35
+msgctxt "pages in search results"
+msgid "pages"
+msgstr "sivua"
+
+#: lib/VetSearchController.php:38
+msgctxt "article in search results"
+msgid "article"
+msgstr "artikkeli"
+
+#: lib/VetSearchController.php:39
+msgctxt "articles in search results"
+msgid "articles"
+msgstr "artikkelia"
+
+#: lib/VetSearchController.php:42
+msgctxt "task in search results"
+msgid "task"
+msgstr "tehtävä"
+
+#: lib/VetSearchController.php:43
+msgctxt "tasks in search results"
+msgid "tasks"
+msgstr "tehtävää"
+
+#: lib/VetSearchController.php:46
+msgctxt "activity in search results"
+msgid "activity"
+msgstr "toiminto"
+
+#: lib/VetSearchController.php:47
+msgctxt "activities in search results"
+msgid "activities"
+msgstr "toimintoa"
+
+#: lib/VetSearchController.php:50
+msgctxt "search result"
+msgid "search result"
+msgstr ""
+
+#: lib/VetSearchController.php:51
+msgctxt "search results"
+msgid "search results"
+msgstr ""
+
+#: page-templates/page-full-width.php:40 single-activity-cpt.php:41
+#: single-task-cpt.php:49
+msgid "More related content"
+msgstr ""
+
+#: partials/blocks/linked-events.php:114
+msgid "Show more"
+msgstr ""
+
+#: partials/footer.php:62
+msgid "Scroll to top"
+msgstr "Siirry ylös"
+
+#: partials/header.php:19
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: partials/header.php:33 partials/header.php:46 partials/header.php:128
+msgid "Search"
+msgstr "Hae"
+
+#: partials/header.php:60 partials/header.php:148
+msgid "Change language"
+msgstr "Vaihda kieli"
+
+#: partials/header.php:69
+msgid "Switch language"
+msgstr "Vaihda kieli"
+
+#: partials/header.php:80
+#, php-format
+msgid "Switch language to %s"
+msgstr "Vaihda kieleksi %s"
+
+#: partials/header.php:95
+msgid "Go to Vapaaehtoistoiminta Facebook page"
+msgstr "Siirry Vapaaehtoistoiminnan Facebook sivulle"
+
+#: partials/header.php:113
+msgid "Menu"
+msgstr "Valikko"
+
+#: partials/header.php:140
+msgid "Primary"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Vapaaehtoistoiminta"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"https://github.com/devgeniem/client-hel-multisite/tree/master/web/app/"
+"themes/vapaaehtoistoiminta"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Vapaaehtoistoiminta theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Geniem"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://geniem.fi"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Show as list"
+#~ msgctxt "theme TAX"
+#~ msgid "Show place tag"
+#~ msgstr "Näytä listana"
+
+#, fuzzy, php-format
+#~| msgctxt "search result"
+#~| msgid "search result"
+#~ msgid "Search returned %s result"
+#~ msgid_plural "Search returned %s results"
+#~ msgstr[0] "hakutulos"
+#~ msgstr[1] "hakutulos"
+
+#~ msgid "Youth centers"
+#~ msgstr "Nuorisotalot"
+
+#~ msgid "High schools"
+#~ msgstr "Lukiot"
+
+#~ msgid "Vocational schools"
+#~ msgstr "Ammattioppilaitokset"
+
+#~ msgid "Events"
+#~ msgstr "Tapahtumat"
+
+#~ msgid "Youth center instructors title"
+#~ msgstr "Ohjaajat"
+
+#~ msgid "Youth center opening hours title"
+#~ msgstr "Aukioloajat ja jatkuva toiminta"
+
+#~ msgid "Mon"
+#~ msgstr "Ma"
+
+#~ msgid "Tue"
+#~ msgstr "Ti"
+
+#~ msgid "Wed"
+#~ msgstr "Ke"
+
+#~ msgid "Thu"
+#~ msgstr "To"
+
+#~ msgid "Fri"
+#~ msgstr "Pe"
+
+#~ msgid "Sat"
+#~ msgstr "La"
+
+#~ msgid "Sun"
+#~ msgstr "Su"
+
+#~ msgid "at"
+#~ msgstr "Klo"
+
+#~ msgid "Free of charge"
+#~ msgstr "Maksuton"
+
+#~ msgid "Important links"
+#~ msgstr "Tärkeimmät linkit"
+
+#~ msgid "results by filter"
+#~ msgstr "tulokset suodattimella"
+
+#~ msgctxt "youth center in search results"
+#~ msgid "youth center"
+#~ msgstr "nuorisotalo"
+
+#~ msgctxt "youth centers in search results"
+#~ msgid "youth centers"
+#~ msgstr "nuorisotaloa"
+
+#~ msgctxt "high school in search results"
+#~ msgid "high school"
+#~ msgstr "Lukio"
+
+#~ msgctxt "high schools in search results"
+#~ msgid "high schools"
+#~ msgstr "Lukiot"
+
+#~ msgctxt "vocational school in search results"
+#~ msgid "vocational school"
+#~ msgstr "Ammattioppilaitos"
+
+#~ msgctxt "vocational schools in search results"
+#~ msgid "vocational schools"
+#~ msgstr "Ammattioppilaitokset"
+
+#~ msgctxt "event in search results"
+#~ msgid "event"
+#~ msgstr "tapahtuma"
+
+#~ msgctxt "events in search results"
+#~ msgid "events"
+#~ msgstr "tapahtumaa"
+
+#~ msgid "All"
+#~ msgstr "Kaikki"
+
+#, php-format
+#~ msgid "Your search \"%1$s\" returned %2$s %3$s"
+#~ msgstr "Haullasi “%1$1s” löytyi %2$s %3$s"
+
+#~ msgid "HSL Journey Planner"
+#~ msgstr "HSL reittiopas"
+
+#~ msgid "School website"
+#~ msgstr "Lukion nettisivut"
+
+#~ msgid "Show on map"
+#~ msgstr "Näytä kartalla"
+
+#~ msgid "Related events"
+#~ msgstr "Muita samankaltaisia tapahtumia"
+
+#, php-format
+#~ msgid "%s place"
+#~ msgid_plural "%s places"
+#~ msgstr[0] "%s paikka"
+#~ msgstr[1] "%s paikkaa"
+
+#~ msgid "Find a candidate based on their name or postcode"
+#~ msgstr "Etsi ehdokasta nimellä tai postinumerolla"
+
+#~ msgid "Opens in new tab"
+#~ msgstr "Avautuu uuteen välilehteen"
+
+#~ msgid "Description"
+#~ msgstr "Kuvaus"
+
+#~ msgid "Date and time"
+#~ msgstr "Päivä ja aika"
+
+#~ msgid "Open map"
+#~ msgstr "Avaa kartta"
+
+#~ msgid "Website"
+#~ msgstr "Verkkosivu"
+
+#~ msgid "Directions"
+#~ msgstr "Löydä perille"
+
+#~ msgid "Directions (HSL)"
+#~ msgstr "Reittiohjeet (HSL)"
+
+#~ msgid "Directions (Google)"
+#~ msgstr "Reittiohjeet (Google)"
+
+#~ msgid "We can't seem to find the event you are looking for."
+#~ msgstr "Etsimääsi tapahtumaa ei löytynyt"
+
+#~ msgid "Buy tickets"
+#~ msgstr "Osta liput"
+
+#~ msgid "No results"
+#~ msgstr "Ei tuloksia"
+
+#~ msgid "Youth center phone number"
+#~ msgstr "Nuorisotalon puhelinnumero"
+
+#~ msgid "Open map in new tab"
+#~ msgstr "Avaa kartta uuteen välilehteen"
+
+#~ msgid "Visiting address"
+#~ msgstr "Käyntiosoite"
+
+#~ msgid "Postal address"
+#~ msgstr "Postiosoite"
+
+#~ msgid "Transport connections"
+#~ msgstr "Yhteydet"
+
+#~ msgid "Upcoming events"
+#~ msgstr "Tulevat tapahtumat"
+
+#~ msgid "No upcoming events"
+#~ msgstr "Ei tulevia tapahtumia"
+
+#~ msgid "Year of birth"
+#~ msgstr "Syntymävuosi"
+
+#~ msgid "Postal code"
+#~ msgstr "Postinumero"
+
+#~ msgctxt "theme CPT slugs (polylang)"
+#~ msgid "youth-centers"
+#~ msgstr "nuorisotalot"
+
+#~ msgid "Birthyear"
+#~ msgstr "Syntymävuosi"
+
+#~ msgid "Age"
+#~ msgstr "Ikä"
+
+#~ msgid "No location data"
+#~ msgstr "Ei sijaintitietoa"
+
+#, php-format
+#~ msgctxt "search results page heading"
+#~ msgid "%1$1s result found for \"%2$2s\""
+#~ msgid_plural "%1$1s results found for \"%2$2s\""
+#~ msgstr[0] "%1$1s tulos haulle “%2$2s”"
+#~ msgstr[1] "%1$1s tulosta haulle “%2$2s”"
+
+#~ msgid "Search from Nuorten Helsinki"
+#~ msgstr "Etsi Nuorten Helsingistä"
+
+#~ msgctxt "post and page in search results"
+#~ msgid "post and page"
+#~ msgstr "artikkeli/sivu"
+
+#~ msgctxt "posts and pages in search results"
+#~ msgid "posts and pages"
+#~ msgstr "artikkelia/sivua"
+
+#~ msgid "Posts and pages"
+#~ msgstr "Artikkelit ja sivut"
+
+#~ msgctxt "youth centers in search results"
+#~ msgid "Youth centers"
+#~ msgstr "nuorisotaloa"

@@ -1,0 +1,20 @@
+.single-task-fields {
+    .single-task-field {
+        &--label,
+        &--value {
+            margin-top: 0;
+        }
+
+        &--label {
+            font-weight: 700;
+            margin-bottom: $spacing-xs;
+        }
+        &--value {
+            margin-bottom: $spacing-s;
+
+            & + p {
+                margin-top: 0;
+            }
+        }
+    }
+}

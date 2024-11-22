@@ -1,0 +1,23 @@
+.taxonomy-terms {
+    justify-content: center;
+
+    li {
+        margin-bottom: $spacing-m;
+    }
+    a {
+        margin-right: $spacing-m;
+
+        &:hover,
+        &.is-active {
+            color: $color-white;
+            text-decoration: none;
+            background-color: $color-black !important;
+        }
+
+        &:hover {
+            &:focus {
+                color: $color-white !important;
+            }
+        }
+    }
+}

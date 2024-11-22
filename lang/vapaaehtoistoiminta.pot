@@ -1,0 +1,402 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: nuhe\n"
+"POT-Creation-Date: 2023-01-03 20:57+0200\n"
+"PO-Revision-Date: 2017-12-05 13:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: archive.php:55 partials/layouts/tax_term_list.php:33
+msgid "Filter results"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:77
+msgid "Start date"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:81
+msgid "End date"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:85
+msgid "Keywords"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:89 lib/LinkedEventsSettings.php:88
+msgid "Places"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:93
+msgid "Limit"
+msgstr ""
+
+#: lib/Blocks/LinkedEventsBlock.php:217 partials/blocks/linked-events.php:95
+msgid "Free"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:74
+msgid "WP LinkedEvents settings"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:92
+msgid "Place text"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:96
+msgid "Place ID"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:100
+msgid "Keyword groups"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:104
+msgid "Keyword group text"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:105
+msgid "In example music"
+msgstr ""
+
+#: lib/LinkedEventsSettings.php:108
+msgid "Selected keywords"
+msgstr ""
+
+#: lib/Model/SingleTask.php:62
+msgid "Time"
+msgstr ""
+
+#: lib/Model/SingleTask.php:66
+msgid "Location"
+msgstr ""
+
+#: lib/Model/SingleTask.php:70
+msgid "Requirements"
+msgstr ""
+
+#: lib/Model/SingleTask.php:74
+msgid "Organizer"
+msgstr ""
+
+#: lib/Model/SingleTask.php:78
+msgid "Additional information"
+msgstr ""
+
+#: lib/PostType/Activity.php:59
+msgctxt "theme CPT"
+msgid "Toiminta"
+msgstr ""
+
+#: lib/PostType/Activity.php:79
+msgctxt "theme CPT Singular Name"
+msgid "Toiminnat"
+msgstr ""
+
+#: lib/PostType/Activity.php:80 lib/PostType/Activity.php:81
+msgctxt "theme CPT"
+msgid "Toiminnat"
+msgstr ""
+
+#: lib/PostType/Activity.php:82
+msgctxt "theme CPT"
+msgid "Toimintojen arkistot"
+msgstr ""
+
+#: lib/PostType/Activity.php:83
+msgctxt "theme CPT"
+msgid "Toiminnan ominaisuudet"
+msgstr ""
+
+#: lib/PostType/Activity.php:84 lib/PostType/Task.php:84
+msgctxt "theme CPT"
+msgid "Yläsivu:"
+msgstr ""
+
+#: lib/PostType/Activity.php:85
+msgctxt "theme CPT"
+msgid "Kaikki toiminnat"
+msgstr ""
+
+#: lib/PostType/Activity.php:86
+msgctxt "theme CPT"
+msgid "Lisää uusi toiminta"
+msgstr ""
+
+#: lib/PostType/Activity.php:87 lib/PostType/Task.php:87
+msgctxt "theme CPT"
+msgid "Lisää uusi"
+msgstr ""
+
+#: lib/PostType/Activity.php:88 lib/PostType/Task.php:88
+msgctxt "theme CPT"
+msgid "New Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:89 lib/PostType/Task.php:89
+msgctxt "theme CPT"
+msgid "Edit Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:90 lib/PostType/Task.php:90
+msgctxt "theme CPT"
+msgid "Update Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:91
+msgctxt "theme CPT"
+msgid "Näytä toiminta"
+msgstr ""
+
+#: lib/PostType/Activity.php:92 lib/PostType/Task.php:92
+msgctxt "theme CPT"
+msgid "View Items"
+msgstr ""
+
+#: lib/PostType/Activity.php:93 lib/PostType/Task.php:93
+msgctxt "theme CPT"
+msgid "Search Item"
+msgstr ""
+
+#: lib/PostType/Activity.php:94 lib/PostType/Task.php:94
+msgctxt "theme CPT"
+msgid "Not found"
+msgstr ""
+
+#: lib/PostType/Activity.php:95 lib/PostType/Task.php:95
+msgctxt "theme CPT"
+msgid "Not found in Trash"
+msgstr ""
+
+#: lib/PostType/Activity.php:96 lib/PostType/Task.php:96
+msgctxt "theme CPT"
+msgid "Artikkelikuva"
+msgstr ""
+
+#: lib/PostType/Activity.php:97 lib/PostType/Task.php:97
+msgctxt "theme CPT"
+msgid "Set featured image"
+msgstr ""
+
+#: lib/PostType/Activity.php:98 lib/PostType/Task.php:98
+msgctxt "theme CPT"
+msgid "Remove featured image"
+msgstr ""
+
+#: lib/PostType/Activity.php:99 lib/PostType/Task.php:99
+msgctxt "theme CPT"
+msgid "Use as featured image"
+msgstr ""
+
+#: lib/PostType/Activity.php:100 lib/PostType/Task.php:100
+msgctxt "theme CPT"
+msgid "Insert into item"
+msgstr ""
+
+#: lib/PostType/Activity.php:101 lib/PostType/Task.php:101
+msgctxt "theme CPT"
+msgid "Uploaded to this item"
+msgstr ""
+
+#: lib/PostType/Activity.php:102 lib/PostType/Task.php:102
+msgctxt "theme CPT"
+msgid "Items list"
+msgstr ""
+
+#: lib/PostType/Activity.php:103 lib/PostType/Task.php:103
+msgctxt "theme CPT"
+msgid "Items list navigation"
+msgstr ""
+
+#: lib/PostType/Activity.php:104 lib/PostType/Task.php:104
+msgctxt "theme CPT"
+msgid "Filter items list"
+msgstr ""
+
+#: lib/PostType/Task.php:59
+msgctxt "theme CPT"
+msgid "Tehtävä"
+msgstr ""
+
+#: lib/PostType/Task.php:79
+msgctxt "theme CPT Singular Name"
+msgid "Tehtävät"
+msgstr ""
+
+#: lib/PostType/Task.php:80 lib/PostType/Task.php:81
+msgctxt "theme CPT"
+msgid "Tehtävät"
+msgstr ""
+
+#: lib/PostType/Task.php:82
+msgctxt "theme CPT"
+msgid "Tehtävien arkistot"
+msgstr ""
+
+#: lib/PostType/Task.php:83
+msgctxt "theme CPT"
+msgid "Tehtävien ominaisuudet"
+msgstr ""
+
+#: lib/PostType/Task.php:85
+msgctxt "theme CPT"
+msgid "Kaikki tehtävät"
+msgstr ""
+
+#: lib/PostType/Task.php:86
+msgctxt "theme CPT"
+msgid "Lisää uusi tehtävä"
+msgstr ""
+
+#: lib/PostType/Task.php:91
+msgctxt "theme CPT"
+msgid "Näytä tehtävä"
+msgstr ""
+
+#: lib/VetACFController.php:195
+msgid "Articles"
+msgstr ""
+
+#: lib/VetACFController.php:196
+msgid "Pages"
+msgstr ""
+
+#: lib/VetACFController.php:197
+msgid "Activities"
+msgstr ""
+
+#: lib/VetACFController.php:198
+msgid "Tasks"
+msgstr ""
+
+#: lib/VetSearchController.php:34
+msgctxt "page in search results"
+msgid "page"
+msgstr ""
+
+#: lib/VetSearchController.php:35
+msgctxt "pages in search results"
+msgid "pages"
+msgstr ""
+
+#: lib/VetSearchController.php:38
+msgctxt "article in search results"
+msgid "article"
+msgstr ""
+
+#: lib/VetSearchController.php:39
+msgctxt "articles in search results"
+msgid "articles"
+msgstr ""
+
+#: lib/VetSearchController.php:42
+msgctxt "task in search results"
+msgid "task"
+msgstr ""
+
+#: lib/VetSearchController.php:43
+msgctxt "tasks in search results"
+msgid "tasks"
+msgstr ""
+
+#: lib/VetSearchController.php:46
+msgctxt "activity in search results"
+msgid "activity"
+msgstr ""
+
+#: lib/VetSearchController.php:47
+msgctxt "activities in search results"
+msgid "activities"
+msgstr ""
+
+#: lib/VetSearchController.php:50
+msgctxt "search result"
+msgid "search result"
+msgstr ""
+
+#: lib/VetSearchController.php:51
+msgctxt "search results"
+msgid "search results"
+msgstr ""
+
+#: page-templates/page-full-width.php:40 single-activity-cpt.php:41
+#: single-task-cpt.php:49
+msgid "More related content"
+msgstr ""
+
+#: partials/blocks/linked-events.php:114
+msgid "Show more"
+msgstr ""
+
+#: partials/footer.php:62
+msgid "Scroll to top"
+msgstr ""
+
+#: partials/header.php:19
+msgid "Skip to content"
+msgstr ""
+
+#: partials/header.php:33 partials/header.php:46 partials/header.php:128
+msgid "Search"
+msgstr ""
+
+#: partials/header.php:60 partials/header.php:148
+msgid "Change language"
+msgstr ""
+
+#: partials/header.php:69
+msgid "Switch language"
+msgstr ""
+
+#: partials/header.php:80
+#, php-format
+msgid "Switch language to %s"
+msgstr ""
+
+#: partials/header.php:95
+msgid "Go to Vapaaehtoistoiminta Facebook page"
+msgstr ""
+
+#: partials/header.php:113
+msgid "Menu"
+msgstr ""
+
+#: partials/header.php:140
+msgid "Primary"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Vapaaehtoistoiminta"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"https://github.com/devgeniem/client-hel-multisite/tree/master/web/app/"
+"themes/vapaaehtoistoiminta"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Vapaaehtoistoiminta theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Geniem"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://geniem.fi"
+msgstr ""
