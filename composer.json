@@ -27,8 +27,5 @@
         "theme"
     ],
     "license": "GPL-3.0",
-    "minimum-stability": "dev",
-    "require": {
-        "composer/installers": "^1.0.12"
-    }
+    "minimum-stability": "dev"
 }
